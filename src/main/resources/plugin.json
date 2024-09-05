@@ -1,6 +1,6 @@
 {
-  "entrance": "org.allaymc.myplugin.MyPlugin",
-  "name": "MyPlugin",
-  "authors": ["mdx"],
+  "entrance": "org.allaymc.randomblockworldgen.RandomBlockWorldGen",
+  "name": "RandomBlockWorldGen",
+  "authors": ["daoge_cmd"],
   "version": "1.0.0"
 }

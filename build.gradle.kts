@@ -3,8 +3,8 @@ plugins {
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
-group = "org.allaymc.myplugin"
-description = "My plugin"
+group = "org.allaymc.randomblockworldgen"
+description = "A world generator that will generate block randomly"
 version = "1.0.0"
 
 java {
